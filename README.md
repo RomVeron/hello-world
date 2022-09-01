@@ -7,7 +7,7 @@ Software Developer
 I love building things with code, learning new things, everything related to programming and productivity.
 
 * 🌍  I'm based in Asunción, Paraguay
-* ✉️  You can contact me at [romancho013@gmail.com](mailto:romancho013@gmail.com)
+* ✉️  You can contact me at [roman.veron05@gmail.com](mailto:roman.veron05@gmail.com)
 * 🧠  I'm learning a bew framework
 * 🤝  I'm open to collaborating on interesting projects
 
