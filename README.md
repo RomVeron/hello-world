@@ -4,6 +4,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Developer
 ------------------
 
+A software developer with hands-on experience at all levels of testing, including performance, functional, integration, system.
+
+As of 2022, my most recent commitment includes the development of the implementation of a gateway for the SPI (instant payments system) of the BCP, it is compatible with the ISO20022 standard. Instant payment services with immediate availability of funds for the final beneficiary in seconds.
+
 I love building things with code, learning new things, everything related to programming and productivity.
 
 * 🌍  I'm based in Asunción, Paraguay
