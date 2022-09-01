@@ -12,7 +12,7 @@ I love building things with code, learning new things, everything related to pro
 
 * 🌍  I'm based in Asunción, Paraguay
 * ✉️  You can contact me at [roman.veron05@gmail.com](mailto:roman.veron05@gmail.com)
-* 🧠  I'm learning a bew framework
+* 🧠  I'm learning a new framework
 * 🤝  I'm open to collaborating on interesting projects
 
 ### Skills
